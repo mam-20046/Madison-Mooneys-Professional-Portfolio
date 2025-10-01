@@ -1,10 +1,11 @@
 ---
-My First Blog Post: Welcome to my blog
+Madison Mooneys Professional-Portfolio: Welcome to my blog
 ---
-This is my first blog post on my professional Portfolio. This is where I will share my experiences at UCONN!
-Some topics I want to cover in future posts are: 
-- math courses I have taken and ranked to my interest
-- my favorite astrophysics related course and why!
-- my favorite non major/minor course and club!
+Welcome to my Professional-Portfolio! Where I will talk about my college experience!
 
-More updates to come!
+#### About me
+I am currently majoring in mathematics with an minor in astrophysics, and graduating from the University of Connecticut in Spring 2026. I have taken many courses that have fueled both my liking for math and space, as well as other interesting non related classes at my time at UCONN. Additionally I am in the University Ballet Company and will be completing my 7th semester with them in the fall!
+
+##### Contact
+Email: maddiemoon1221@gmail.com \
+Location: Groton, CT
